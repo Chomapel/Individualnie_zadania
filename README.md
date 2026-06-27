@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/29404995/README.1.md)
+[README.md](https://github.com/user-attachments/files/29404995/README.1.md)
 # Задания по C++
 
 Здесь собраны простые программы на C++:
